@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotidabass" alt="jyotidabass" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Image Analysis**
+- 🔭 I’m currently working on **Speech, video,audio and image Analysis**
 
 - 🌱 I’m currently learning **detection of breast cancer using histopathological images**
 
-- 👯 I’m looking to collaborate on **text, image, video and audio based projects**
+- 👯 I’m looking to collaborate on **text, image, video,speech and audio based projects**
 
 - 🤝 I’m looking for help with **exploring more in this field**
 
