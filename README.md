@@ -19,10 +19,15 @@
 
 - 📫 How to reach me **jyotidabas91@gmail.com**
 - github profile: https://github.com/jyotidabass
+  
 -Semantic Scholar:https://www.semanticscholar.org/author/Jyoti-Dabass/83462281
+
 -Publons profile: https://publons.com/researcher/3973927/jyoti-dabass/
+
 -Google Scholar profile:  https://scholar.google.com/citations?user=a7HGcrkAAAAJ&hl=en&oi=ao
+
 -Medium profile: medium. com/@jyoti_98875, medium. com/@jyotidabass
+
 -Kaggle profile: https://www.kaggle.com/jyotidabas
 
 <h3 align="left">Connect with me:</h3>
