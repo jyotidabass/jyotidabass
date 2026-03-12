@@ -23,7 +23,7 @@
 I'm a **Senior Data & AI Engineer** designing, deploying, and scaling production-grade AI systems. My work spans the full AI lifecycle — from data engineering and model development to cloud deployment, CI/CD, and MLOps.
 
 - 🏗️ **Currently building** cloud-native AI recruitment systems, LLM-powered agents & Advanced RAG pipelines
-- 📝 **500+ technical articles** on Medium — 1M+ readers across GoPenAI, Stackademic, DevGenius & more
+- 📝 **800+ technical articles** on Medium — 1M+ readers across GoPenAI, Stackademic, DevGenius & more
 - 📚 **Editor @ Elsevier** — *Encyclopedia of Artificial Intelligence: Foundations, Innovations, and Future Directions*
 - 🎓 **Mentored 100+ learners** in AI/ML projects in collaboration with Liverpool John Moore's University & IIT Madras
 - 🔍 **Reviewed 300+ international publications** and published 750+ research papers & blogs
@@ -139,7 +139,7 @@ I'm a **Senior Data & AI Engineer** designing, deploying, and scaling production
 ## 📚 Publications, Teaching & Thought Leadership
 
 - 📖 **Editor @ Elsevier** — *Encyclopedia of Artificial Intelligence: Foundations, Innovations, and Future Directions* (AI in Business, Cybersecurity, Fraud Detection, Financial Analytics)
-- ✍️ **500+ Medium articles** — LLMs, GenAI, MLOps, Computer Vision, Prompt Engineering — published in GoPenAI, Stackademic, DevGenius, Venture & more
+- ✍️ **800+ Medium articles** — LLMs, GenAI, MLOps, Computer Vision, Prompt Engineering — published in GoPenAI, Stackademic, DevGenius, Venture & more
 - 🎓 **AI Course Creator @ GUVI / IITM Research Park** — LLMs, Hugging Face Fine-tuning (AutoTrain), Responsible AI, Deep Learning for Generative Media
 - 📺 **YouTube — [Learning Chunks](https://www.youtube.com/@learning-chunks)** — AI explainer content for practitioners
 - 🔬 **Semantic Scholar** — [Profile](https://www.semanticscholar.org/author/Jyoti-Dabass/83462281) | **Google Scholar** — [Profile](https://scholar.google.com/citations?user=a7HGcrkAAAAJ&hl=en&oi=ao)
